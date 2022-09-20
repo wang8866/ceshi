@@ -8,3 +8,5 @@ git是做代码管理的工具，帮助我们记录代码的修改
 查看工作区的修改  git status 
 查看提交记录: git  log
 git保存的记录是可以进行后退前进的   git reset  --hard  版本ID
+
+

@@ -11,3 +11,5 @@ git保存的记录是可以进行后退前进的   git reset  --hard  版本ID
 
 
 a. 通过git init命令把这个目录变成Git可以管理的仓库
+
+git是管理修改的
